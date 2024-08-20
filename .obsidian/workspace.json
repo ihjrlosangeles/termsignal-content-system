@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Here!.md",
+                "file": "Setup To-Do.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start Here!.md",
+                "file": "Setup To-Do.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start Here!.md",
+                "file": "Setup To-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start Here!.md"
+                "file": "Setup To-Do.md"
               }
             }
           }
@@ -194,8 +194,9 @@
   },
   "active": "1c04e634f1607f0d",
   "lastOpenFiles": [
-    "Utlities/Templates/Hub Template.md",
     "Start Here!.md",
+    "README.md",
+    "Utlities/Templates/Hub Template.md",
     "Setup To-Do.md",
     "Utlities/Templates/Content Ideation Topic Template.md",
     "Content OS/Finished Templates/TwitterX/TwitterX Templates.md",
