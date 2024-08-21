@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📂",
+      "💡",
+      "📓",
       "LiLayoutTemplate",
-      "🏦",
-      "📺",
-      "❤️‍🩹",
-      "🪴"
+      "🏦"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,7 +38,7 @@
   "Content OS/To Templatize": "📥",
   "Content OS/Content Calendar.md": "📅",
   "Content OS/Content Matrix.md": "📚",
-  "Content Ideation": "💡",
+  "Content Ideation": "📂",
   "Content OS/Finished Templates/LinkedIn": "LiLinkedin",
   "Content OS/Finished Templates/Newsletter": "📰",
   "Setup To-Do.md": "📥",
@@ -57,5 +57,7 @@
   "Content OS/Finished Templates/1. Template Content Emotions/Challenge Me.md": "🪨",
   "Content OS/Finished Templates/1. Template Content Emotions/Empathize with Me.md": "❤️‍🩹",
   "Content OS/Finished Templates/1. Template Content Emotions/Entertain Me.md": "📺",
-  "Utlities/Templates": "LiLayoutTemplate"
+  "Utlities/Templates": "LiLayoutTemplate",
+  "README.md": "📓",
+  "Content OS/Content Ideas.md": "💡"
 }

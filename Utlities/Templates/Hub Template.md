@@ -1,8 +1,10 @@
 # The Content Operating System
 
-Get a more in-depth explanation inside of [**The Content OS here.**](https://www.justinwelsh.me/the-content-os)
+Select an idea from [[Content Ideas]]
 
 # Step 1: Idea Capture
+
+#### **Idea:**
 
 # {{Title}}
 

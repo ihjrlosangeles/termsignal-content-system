@@ -26,7 +26,11 @@ This is the process of taking existing pieces of content and making them into te
 4. Remove any tags and channels that do not apply.
 5. Move the finished templates to the 🏦 Template Vault.
 
-### Part 2. Create Content Hubs
+### Part 2. Content Ideation
+1.  Setup 2 timeslots of 30 minutes to generate ideas.
+2. Use the knowledge base to add ideas and research
+3. TODO: Build a note for all Idea lists 
+### Part 3. Create Content Hubs
 
 1. Select an Idea - Use the Content Ideation section for ideas
 2. Research the Topic
