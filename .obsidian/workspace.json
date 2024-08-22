@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Utlities/Templates/Hub Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Utlities/Templates/Hub Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Utlities/Templates/Hub Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Utlities/Templates/Hub Template.md"
               }
             }
           }
@@ -196,14 +196,16 @@
   },
   "active": "1a497972ad06bf23",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Utlities/Templates/Hub Template.md",
     "Utlities/Templates/Templatized Content Template.md",
-    "Content OS/Content Matrix.md",
+    "Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
+    "Utlities/Templates/Hub Template.md",
+    "Setup To-Do.md",
     "Content OS/Content Ideas.md",
+    "Untitled.md",
+    "Content OS/Finished Content",
+    "Content OS/Content Matrix.md",
     "Content OS/Finished Templates/0. Template Vault/Lessons on thing I did today.md",
     "README.md",
-    "Setup To-Do.md",
     "Start Here!.md",
     "Utlities/Templates/Content Ideation Topic Template.md",
     "Content OS/Finished Templates/TwitterX/TwitterX Templates.md",
@@ -226,11 +228,9 @@
     "Content OS/Content Calendar.md",
     "Content OS/To Templatize/Timeline-of-Day-Scenario.md",
     "Content OS/To Templatize.md",
-    "Content Matrix.md",
     "Posting Calendar e07d9f153db14e7da4a0d8bd5f3b1d7e.csv",
     "Content OS/To Templatize",
     "Content OS/Finished Templates/Newsletter",
-    "Content OS",
-    "Content OS/Finished Templates/LinkedIn"
+    "Content OS"
   ]
 }

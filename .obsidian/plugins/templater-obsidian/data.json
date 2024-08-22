@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "Utlities/Templates",
   "templates_pairs": [
     [
       "",
@@ -24,5 +24,7 @@
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": []
+  "startup_templates": [
+    ""
+  ]
 }

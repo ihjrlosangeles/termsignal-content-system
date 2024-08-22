@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "✅",
       "📂",
       "💡",
       "📓",
-      "LiLayoutTemplate",
-      "🏦"
+      "LiLayoutTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -59,5 +59,6 @@
   "Content OS/Finished Templates/1. Template Content Emotions/Entertain Me.md": "📺",
   "Utlities/Templates": "LiLayoutTemplate",
   "README.md": "📓",
-  "Content OS/Content Ideas.md": "💡"
+  "Content OS/Content Ideas.md": "💡",
+  "Content OS/Finished Content": "✅"
 }

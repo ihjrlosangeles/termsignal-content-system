@@ -64,7 +64,7 @@ Tomorrow, I'll show XX,XXX people how to {Outcome}
 
 {CatchyTakeaway}
 
-If you want to join us, subscribe here: 
+If you want to join us, subscribe here: https://termsignal.ck.page/ec5eab6a24
 
 # Step 6: Post-Newsletter CTA
 
@@ -80,7 +80,7 @@ Miss the issue?
 
 Grab it below ↓
 
-{Hyperlink}
+https://termsignal.ck.page/ec5eab6a24
 
 # Step 7: Thread Template
 
@@ -89,6 +89,9 @@ Write in Hypefury, TweetHunter or your favorite Publishing Tool
 # Step 8: Writing -  Short Form
 
 *You will be writing your draft in your favorite writing software (Hypefury, TweetHunter, Hemingway, Google Docs, etc)*
+https://app.promptbox.ai/dashboard
+
+TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automate the creation of them?
 
 **Style of Post**
 

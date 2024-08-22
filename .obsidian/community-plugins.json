@@ -1,6 +1,5 @@
 [
   "obsidian-excalidraw-plugin",
-  "templater-obsidian",
   "obsidian-living-graph",
   "obsidian-local-rest-api",
   "multi-column-markdown",
@@ -12,5 +11,6 @@
   "highlightr-plugin",
   "dataview",
   "obsidian-plugin-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]

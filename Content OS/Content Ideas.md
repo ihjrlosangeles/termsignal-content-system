@@ -1,6 +1,7 @@
 
 My Own Ideas
-- "Top Free Monitoring Tools for SREs: Building a Cost-Effective Stack"
+- "Top Free Monitoring Tools for SREs: Building a Cost-Effective Stack" 
+	- 2024-08-20
 - "Premium Monitoring Solutions: Are They Worth the Investment?"
 - "Post-Emergency Procedures: Essential Steps for Recovery and Learning"
 - "Emergency Response Playbook: Real-Time Strategies for SREs"
