@@ -47,20 +47,10 @@
             "id": "1a497972ad06bf23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
-                "mode": "source",
-                "source": false
+                "file": "Content Ideation/Books/97 Things Every SRE Should Know.pdf"
               }
-            }
-          },
-          {
-            "id": "78afcf815db0e923",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -130,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
+                "file": "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
+                "file": "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md"
+                "file": "Content Ideation/Books/97 Things Every SRE Should Know.pdf"
               }
             }
           }
@@ -196,13 +186,17 @@
   },
   "active": "1a497972ad06bf23",
   "lastOpenFiles": [
+    "Utlities/Templates/Hub Template.md",
+    "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
+    "Content Ideation/Books",
+    "Untitled.md",
+    "Untitled 1.md",
+    "97 Things Every SRE Should Know.pdf",
     "Utlities/Templates/Templatized Content Template.md",
     "README.md",
-    "Utlities/Templates/Hub Template.md",
     "Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Setup To-Do.md",
     "Content OS/Content Ideas.md",
-    "Untitled.md",
     "Content OS/Finished Content",
     "Content OS/Content Matrix.md",
     "Content OS/Finished Templates/0. Template Vault/Lessons on thing I did today.md",
@@ -226,11 +220,6 @@
     "Utlities/Templates",
     "Utlities",
     "Content OS/Content Calendar.md",
-    "Content OS/To Templatize/Timeline-of-Day-Scenario.md",
-    "Content OS/To Templatize.md",
-    "Posting Calendar e07d9f153db14e7da4a0d8bd5f3b1d7e.csv",
-    "Content OS/To Templatize",
-    "Content OS/Finished Templates/Newsletter",
-    "Content OS"
+    "Posting Calendar e07d9f153db14e7da4a0d8bd5f3b1d7e.csv"
   ]
 }

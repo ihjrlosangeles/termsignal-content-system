@@ -12,5 +12,6 @@
   "dataview",
   "obsidian-plugin-toc",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-annotator"
 ]

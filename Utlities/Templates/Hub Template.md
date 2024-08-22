@@ -110,7 +110,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 - Contrarian (What’s a commonly held belief about this that’s wrong?)
 - Listicle (What are some tools/books/newsletters/Tweets about this?)
 - Analyze (Why did this happen?)
-- Past vs Present
+- Past vs Present 
 
 ***Start writing!***
 # Step 9: Start Writing
