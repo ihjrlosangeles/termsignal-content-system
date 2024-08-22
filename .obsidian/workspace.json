@@ -47,9 +47,11 @@
             "id": "1a497972ad06bf23",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Content Ideation/Books/97 Things Every SRE Should Know.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Ideation/Books/97 Things Every SRE Should Know.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -186,15 +188,15 @@
   },
   "active": "1a497972ad06bf23",
   "lastOpenFiles": [
-    "Utlities/Templates/Hub Template.md",
     "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
+    "Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
+    "Utlities/Templates/Hub Template.md",
     "Content Ideation/Books",
     "Untitled.md",
     "Untitled 1.md",
     "97 Things Every SRE Should Know.pdf",
     "Utlities/Templates/Templatized Content Template.md",
     "README.md",
-    "Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Setup To-Do.md",
     "Content OS/Content Ideas.md",
     "Content OS/Finished Content",

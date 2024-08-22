@@ -13,7 +13,7 @@
 ## Content OS
 ### Tools
 1. Typeshare - Templates and Writing Ideas
-2. Hypefury - Scheduling
+2. Hypefury - Scheduling 
 3. Web Clipper Extension - Clip Content
 4. ConvertKit - Newsletter
 5. Kajabi - Course & Digital Product Sales
