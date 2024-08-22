@@ -29,7 +29,7 @@ This is the process of taking existing pieces of content and making them into te
 ### Part 2. Content Ideation
 1.  Setup 2 timeslots of 30 minutes to generate ideas.
 2. Use the knowledge base to add ideas and research
-3. TODO: Build a note for all Idea lists 
+3. Add new ideas to [[Content Ideas]]
 ### Part 3. Create Content Hubs
 
 1. Select an Idea - Use the Content Ideation section for ideas
@@ -41,7 +41,7 @@ This is the process of taking existing pieces of content and making them into te
 7. Write the TwitterX Thread in Hypefury
 8. Write the short form content pieces
 9. Write the Newsletter w/ the template you selected
-10. Use the Content Schedule to space out the content over 4-6 weeks. 
+10. Use the Content Schedule to space out the content over 1-6 weeks. 
 
 
 ### Content Schedule 
