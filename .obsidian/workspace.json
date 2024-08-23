@@ -47,11 +47,9 @@
             "id": "1a497972ad06bf23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Content Ideation/Books/Building Secure and Reliable Systems.pdf"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Content Ideation/Books/Building Secure and Reliable Systems.pdf"
               }
             }
           }
@@ -188,10 +186,12 @@
   },
   "active": "1a497972ad06bf23",
   "lastOpenFiles": [
-    "Content Ideation/Books/Site Reliability Engineering.pdf",
     "Content Ideation/Books/SLO Adoption and Usage in Site Reliability Engineering.pdf",
-    "Content Ideation/Books/Training Site Reliability Engineers.pdf",
+    "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
+    "Content Ideation/Books/Site Reliability Engineering.pdf",
     "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
+    "README.md",
+    "Content Ideation/Books/Training Site Reliability Engineers.pdf",
     "Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Utlities/Templates/Hub Template.md",
     "Content Ideation/Books",
@@ -199,7 +199,6 @@
     "Untitled 1.md",
     "97 Things Every SRE Should Know.pdf",
     "Utlities/Templates/Templatized Content Template.md",
-    "README.md",
     "Setup To-Do.md",
     "Content OS/Content Ideas.md",
     "Content OS/Finished Content",
@@ -222,7 +221,6 @@
     "Content OS/Finished Templates/Template Content Emotions/Template Content Emotions.md",
     "Content OS/Finished Templates/1. Template Content Emotions",
     "Content OS/Finished Templates/Blog",
-    "Utlities/Templates",
     "Content OS/Content Calendar.md"
   ]
 }
