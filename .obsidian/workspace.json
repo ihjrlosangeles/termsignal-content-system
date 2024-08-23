@@ -188,6 +188,9 @@
   },
   "active": "1a497972ad06bf23",
   "lastOpenFiles": [
+    "Content Ideation/Books/Site Reliability Engineering.pdf",
+    "Content Ideation/Books/SLO Adoption and Usage in Site Reliability Engineering.pdf",
+    "Content Ideation/Books/Training Site Reliability Engineers.pdf",
     "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
     "Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Utlities/Templates/Hub Template.md",
@@ -220,8 +223,6 @@
     "Content OS/Finished Templates/1. Template Content Emotions",
     "Content OS/Finished Templates/Blog",
     "Utlities/Templates",
-    "Utlities",
-    "Content OS/Content Calendar.md",
-    "Posting Calendar e07d9f153db14e7da4a0d8bd5f3b1d7e.csv"
+    "Content OS/Content Calendar.md"
   ]
 }
