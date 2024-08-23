@@ -47,9 +47,11 @@
             "id": "1a497972ad06bf23",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Content Ideation/Books/Building Secure and Reliable Systems.pdf"
+                "file": "Content OS/Content Ideas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
+                "file": "Content OS/Content Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
+                "file": "Content OS/Content Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Ideation/Books/Building Secure and Reliable Systems.pdf"
+                "file": "Content OS/Content Ideas.md"
               }
             }
           }
@@ -186,8 +188,8 @@
   },
   "active": "1a497972ad06bf23",
   "lastOpenFiles": [
-    "Content Ideation/Books/SLO Adoption and Usage in Site Reliability Engineering.pdf",
     "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
+    "Content Ideation/Books/SLO Adoption and Usage in Site Reliability Engineering.pdf",
     "Content Ideation/Books/Site Reliability Engineering.pdf",
     "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
     "README.md",

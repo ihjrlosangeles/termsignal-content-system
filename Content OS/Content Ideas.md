@@ -1,7 +1,7 @@
 
 My Own Ideas
 - "Top Free Monitoring Tools for SREs: Building a Cost-Effective Stack" 
-	- 2024-08-20
+	- 2024-08-20 [[Top Free Monitoring Tools for SREs Building a Cost-Effective Stack]]
 - "Premium Monitoring Solutions: Are They Worth the Investment?"
 - "Post-Emergency Procedures: Essential Steps for Recovery and Learning"
 - "Emergency Response Playbook: Real-Time Strategies for SREs"
@@ -22,6 +22,7 @@ My Own Ideas
 - "Effective Communication Strategies for SREs During Critical Incidents"
 - "The Future of SRE: Emerging Trends and Technologies to Watch"
 - "How to implement an Alarm Lifecycle Procedure"
+- "Must Read SRE Books" - https://imzye.com/SRE/books/
 
 AI Generated Ideas
 ## 1. Educational Series
