@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "930269ab7f2b3ceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developing an Error Budget SLO Alarm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9c630cdfd31ea600",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alert Types.md",
+                "file": "Developing an Error Budget SLO Alarm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alert Types.md",
+                "file": "Developing an Error Budget SLO Alarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alert Types.md"
+                "file": "Developing an Error Budget SLO Alarm.md"
               }
             }
           }
@@ -278,14 +290,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74ad01da2ae72a84",
+  "active": "930269ab7f2b3ceb",
   "lastOpenFiles": [
     "Instrumenting and Alerting for a New Service.md",
+    "Developing an Error Budget SLO Alarm.md",
+    "Identify and Select SLOs.md",
+    "Alert Types.md",
     "Alerting.md",
     "SLIs.md",
-    "Identify and Select SLOs.md",
     "SLO List.md",
-    "Alert Types.md",
     "Identify the type of service.md",
     "Content Ideation/Monitoring.md",
     "Content OS/Content Ideas.md",
@@ -313,7 +326,6 @@
     "Start Here!.md",
     "Utlities/Templates/Content Ideation Topic Template.md",
     "Content OS/Finished Templates/TwitterX/TwitterX Templates.md",
-    "Content OS/Finished Templates/LinkedIn/LinkedIn Templates.md",
     "Content OS/Finished Templates/0. Template Vault",
     "Content OS/Finished Templates/1. Template Content Emotions"
   ]

@@ -14,6 +14,7 @@
 
 4. Set Thresholds and Conditions for Alarms
    - [[Alert Types]] 
+   - [[Developing an Error Budget SLO Alarm]]
    - Determine baseline performance
    - Set specific threshold levels for each SLO
    - Define alarm conditions (e.g., when to trigger alerts)
