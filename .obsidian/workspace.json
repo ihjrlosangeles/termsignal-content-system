@@ -49,14 +49,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content OS/Content Ideas.md",
+                "file": "Content Ideation/Monitoring.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a26767ae812d1934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alerting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f057e2856c58af19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content OS/Content Ideas.md",
+                "file": "Alerting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content OS/Content Ideas.md",
+                "file": "Alerting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content OS/Content Ideas.md"
+                "file": "Alerting.md"
               }
             }
           }
@@ -186,8 +206,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a497972ad06bf23",
+  "active": "a26767ae812d1934",
   "lastOpenFiles": [
+    "Content Ideation/Monitoring.md",
+    "Alerting1.md",
+    "Alerting.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Content Ideation/Observability.md",
+    "Content Ideation/Site Reliability Engineering.md",
+    "Content OS/Content Ideas.md",
     "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
     "Content Ideation/Books/SLO Adoption and Usage in Site Reliability Engineering.pdf",
     "Content Ideation/Books/Site Reliability Engineering.pdf",
@@ -197,12 +226,9 @@
     "Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Utlities/Templates/Hub Template.md",
     "Content Ideation/Books",
-    "Untitled.md",
-    "Untitled 1.md",
     "97 Things Every SRE Should Know.pdf",
     "Utlities/Templates/Templatized Content Template.md",
     "Setup To-Do.md",
-    "Content OS/Content Ideas.md",
     "Content OS/Finished Content",
     "Content OS/Content Matrix.md",
     "Content OS/Finished Templates/0. Template Vault/Lessons on thing I did today.md",
@@ -217,12 +243,6 @@
     "Content OS/Finished Templates/X/Untitled.md",
     "Content OS/Finished Templates/Newsletter/Newsletter Template.md",
     "Content OS/Finished Templates/1. Template Content Emotions/Challenge Me.md",
-    "Content OS/Finished Templates/1. Template Content Emotions/Empathize with Me.md",
-    "Content OS/Finished Templates/1. Template Content Emotions/Educate Me.md",
-    "Content OS/Finished Templates/Educate Me.md",
-    "Content OS/Finished Templates/Template Content Emotions/Template Content Emotions.md",
-    "Content OS/Finished Templates/1. Template Content Emotions",
-    "Content OS/Finished Templates/Blog",
-    "Content OS/Content Calendar.md"
+    "Content OS/Finished Templates/1. Template Content Emotions"
   ]
 }
