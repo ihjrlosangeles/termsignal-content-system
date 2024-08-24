@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alerting.md",
+                "file": "Instrumenting and Alerting for a new Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74ad01da2ae72a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alert Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alerting.md",
+                "file": "Instrumenting and Alerting for a new Service.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alerting.md",
+                "file": "Instrumenting and Alerting for a new Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alerting.md"
+                "file": "Instrumenting and Alerting for a new Service.md"
               }
             }
           }
@@ -208,9 +220,11 @@
   },
   "active": "a26767ae812d1934",
   "lastOpenFiles": [
+    "Alerting.md",
+    "Instrumenting and Alerting for a new Service.md",
+    "Alert Types.md",
     "Content Ideation/Monitoring.md",
     "Alerting1.md",
-    "Alerting.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -241,8 +255,6 @@
     "Content OS/Finished Templates/1. Template Content Emotions/Entertain Me.md",
     "Content OS/Finished Templates/0. Template Vault",
     "Content OS/Finished Templates/X/Untitled.md",
-    "Content OS/Finished Templates/Newsletter/Newsletter Template.md",
-    "Content OS/Finished Templates/1. Template Content Emotions/Challenge Me.md",
     "Content OS/Finished Templates/1. Template Content Emotions"
   ]
 }
