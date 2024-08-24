@@ -7,6 +7,7 @@ Monitoring is the systematic collection, analysis, and use of information to tra
 - **Log Monitoring**
 - **Cloud Monitoring**
 - [[Alerting]]
+- [[]]
 
 ## Tools and Technologies
 - **Prometheus**: For metric collection and alerting.

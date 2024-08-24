@@ -10,7 +10,12 @@ Tags:
 
 
 What is Alerting?
+Link:
+https://samber.github.io/awesome-prometheus-alerts/rules.html
 
-
-- [[Alert Types]]
-- [[Instrumenting and Alerting for a new Service]]
+- [[Identify the type of service]]
+-  [[SLIs]]
+- [[Instrumenting and Alerting for a New Service]]
+- [[SLO List]]
+- [[Identify and Select SLOs]]
+-  [[Alert Types]]
