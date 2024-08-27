@@ -4,35 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "9fbe19012f9e48af",
+        "id": "4b573877bfca0a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "8727fa30379b126c",
+            "id": "c6cdad5c192376d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
+                "file": "The Path to Mastery- 3 Crucial Phases of Skill Development.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c13edacb6f771b2b",
+            "id": "ac3b8e4a01f76255",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup To-Do.md",
+                "file": "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c04e634f1607f0d",
+            "id": "a85e088c0ff05be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content OS/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e3302db100799c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0126a8f422037a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,125 +62,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a497972ad06bf23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content Ideation/Monitoring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a26767ae812d1934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alerting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47792119da38d3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLIs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c37b7b84f11bb571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instrumenting and Alerting for a New Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "930269ab7f2b3ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developing an Error Budget SLO Alarm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c630cdfd31ea600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Identify and Select SLOs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ea192665e1babe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLO List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99086aa4b8e76778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Identify the type of service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74ad01da2ae72a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alert Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f057e2856c58af19",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing an Error Budget SLO Alarm.md",
+                "file": "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing an Error Budget SLO Alarm.md",
+                "file": "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing an Error Budget SLO Alarm.md"
+                "file": "The Path to Mastery - 3 Crucial Phases of Skill Development.md"
               }
             }
           }
@@ -290,22 +194,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "930269ab7f2b3ceb",
+  "active": "ac3b8e4a01f76255",
   "lastOpenFiles": [
-    "Instrumenting and Alerting for a New Service.md",
-    "Developing an Error Budget SLO Alarm.md",
-    "Identify and Select SLOs.md",
-    "Alert Types.md",
-    "Alerting.md",
-    "SLIs.md",
-    "SLO List.md",
-    "Identify the type of service.md",
-    "Content Ideation/Monitoring.md",
+    "The Path to Mastery- 3 Crucial Phases of Skill Development.md",
+    "Content OS/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
+    "Content OS/Finished Templates/Newsletter/Newsletter Template.md",
+    "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
     "Content OS/Content Ideas.md",
-    "Alerting1.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Untitled.md",
+    "Content Ideation/SLIs.md",
+    "Content Ideation/Alert Types.md",
+    "Content Ideation/SLO List.md",
+    "Content Ideation/Instrumenting and Alerting for a New Service.md",
+    "Content Ideation/Alerting.md",
+    "Content Ideation/Developing an Error Budget SLO Alarm.md",
+    "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
+    "Untitled 2.md",
+    "Content Ideation/Identify and Select SLOs.md",
+    "Content Ideation/Identify the type of service.md",
+    "Content Ideation/Monitoring.md",
+    "Alerting1.md",
     "Content Ideation/Observability.md",
     "Content Ideation/Site Reliability Engineering.md",
     "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
@@ -314,7 +222,6 @@
     "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
     "README.md",
     "Content Ideation/Books/Training Site Reliability Engineers.pdf",
-    "Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Utlities/Templates/Hub Template.md",
     "Content Ideation/Books",
     "97 Things Every SRE Should Know.pdf",
@@ -323,9 +230,6 @@
     "Content OS/Finished Content",
     "Content OS/Content Matrix.md",
     "Content OS/Finished Templates/0. Template Vault/Lessons on thing I did today.md",
-    "Start Here!.md",
-    "Utlities/Templates/Content Ideation Topic Template.md",
-    "Content OS/Finished Templates/TwitterX/TwitterX Templates.md",
     "Content OS/Finished Templates/0. Template Vault",
     "Content OS/Finished Templates/1. Template Content Emotions"
   ]

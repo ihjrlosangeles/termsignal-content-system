@@ -24,6 +24,8 @@ My Own Ideas
 - "How to implement an Alarm Lifecycle Procedure"
 - "Must Read SRE Books" - https://imzye.com/SRE/books/
 - "The Hidden Cost of Neglecting SRE"
+- "The Path to Mastery: 3 Crucial Phases of Skill Development"
+	- 2024-08-26
 
 AI Generated Ideas
 ## 1. Educational Series
