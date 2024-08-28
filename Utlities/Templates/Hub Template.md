@@ -104,6 +104,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 **Positive Future** — show the future benefits associated with the intrigue.
 **Solution** — bring clarity to how they can achieve a positive future with a solution
 
+#### LinkedIn Post :LiLinkedin: 
 ```
 
 
@@ -111,51 +112,111 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ```
 
+#### Tweet Thread :LiTwitter:
+```
+
+
+
+
+```
 
 ### Observation (What’s something interesting you noticed?)
 
+#### LinkedIn Post :LiLinkedin: 
 ```
 
 
 
 
 ```
+
+#### Tweets  :LiTwitter:
+```
+
+
+
+
+```
+
+
 
 ### Contrarian (What’s a commonly held belief about this that’s wrong?)
-
+#### LinkedIn Post :LiLinkedin: 
 ```
 
 
 
 
 ```
+
+#### Tweets  :LiTwitter:
+```
+
+
+
+
+```
+
 
 ### Listicle (What are some tools/books/newsletters/Tweets about this?)
 
+#### LinkedIn Post :LiLinkedin: 
+
+```
+
+
+
+
+```
+
+#### Tweet Thread  :LiTwitter:
 ```
 
 
 
 
 ```
+
+
 
 ### Analyze (Why did this happen?)
-
+#### LinkedIn Post :LiLinkedin: 
 ```
 
 
 
 
 ```
+
+#### Tweet  :LiTwitter:
+```
+
+
+
+
+```
+
+
 
 ### Past vs Present 
 
+#### LinkedIn Post :LiLinkedin: 
 ```
 
 
 
 
 ```
+
+#### Tweet  :LiTwitter:
+```
+
+
+
+
+```
+
+
 
 
 
