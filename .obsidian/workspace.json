@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5e91ee2508a3aa39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a85e088c0ff05be2",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+                "file": "Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Path to Mastery - 3 Crucial Phases of Skill Development.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -194,12 +206,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac3b8e4a01f76255",
+  "active": "5e91ee2508a3aa39",
   "lastOpenFiles": [
+    "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+    "Untitled 1.md",
     "The Path to Mastery- 3 Crucial Phases of Skill Development.md",
     "Content OS/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
     "Content OS/Finished Templates/Newsletter/Newsletter Template.md",
-    "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
     "Content OS/Content Ideas.md",
     "Untitled.md",
     "Content Ideation/SLIs.md",
@@ -229,7 +242,6 @@
     "Setup To-Do.md",
     "Content OS/Finished Content",
     "Content OS/Content Matrix.md",
-    "Content OS/Finished Templates/0. Template Vault/Lessons on thing I did today.md",
     "Content OS/Finished Templates/0. Template Vault",
     "Content OS/Finished Templates/1. Template Content Emotions"
   ]
