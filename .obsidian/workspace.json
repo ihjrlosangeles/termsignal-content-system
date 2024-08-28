@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+                "file": "Content OS/Content Calendar.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Utlities/Templates/Hub Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Content OS/Content Calendar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Content OS/Content Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Content OS/Content Calendar.md"
               }
             }
           }
@@ -206,11 +206,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e91ee2508a3aa39",
+  "active": "ac3b8e4a01f76255",
   "lastOpenFiles": [
-    "The Path to Mastery - 3 Crucial Phases of Skill Development.md",
-    "Untitled 1.md",
+    "Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+    "Utlities/Templates/Hub Template.md",
+    "Utlities/Templates/Templatized Content Template.md",
     "The Path to Mastery- 3 Crucial Phases of Skill Development.md",
+    "Untitled 1.md",
     "Content OS/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
     "Content OS/Finished Templates/Newsletter/Newsletter Template.md",
     "Content OS/Content Ideas.md",
@@ -235,10 +237,8 @@
     "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
     "README.md",
     "Content Ideation/Books/Training Site Reliability Engineers.pdf",
-    "Utlities/Templates/Hub Template.md",
     "Content Ideation/Books",
     "97 Things Every SRE Should Know.pdf",
-    "Utlities/Templates/Templatized Content Template.md",
     "Setup To-Do.md",
     "Content OS/Finished Content",
     "Content OS/Content Matrix.md",

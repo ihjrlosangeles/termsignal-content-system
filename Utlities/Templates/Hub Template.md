@@ -86,31 +86,78 @@ https://termsignal.ck.page/ec5eab6a24
 
 Write in Hypefury, TweetHunter or your favorite Publishing Tool
 
-# Step 8: Writing -  Short Form
+#  Step 8: Writing -  Short Form
 
 *You will be writing your draft in your favorite writing software (Hypefury, TweetHunter, Hemingway, Google Docs, etc)*
 https://app.promptbox.ai/dashboard
 
 TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automate the creation of them?
 
-**Style of Post**
+## Style of Post
 
-- Story (A full-blown story)
-    - **Pain/Attention** — use a personal story or start with a problem
-        - 
-    - **Agitate** — share how things got worse and what happened to you/someone.
-        - 
-    - **Intrigue** — show them a new perspective to think about that’s intriguing
-        - 
-    - **Positive Future** — show the future benefits associated with the intrigue.
-        - 
-    - **Solution** — bring clarity to how they can achieve a positive future with a solution
-        - 
-- Observation (What’s something interesting you noticed?)
-- Contrarian (What’s a commonly held belief about this that’s wrong?)
-- Listicle (What are some tools/books/newsletters/Tweets about this?)
-- Analyze (Why did this happen?)
-- Past vs Present 
+
+### Story (A full-blown story)
+
+**Pain in/Attention** — use a personal story or start with a problem
+**Agitate** — share how things got worse and what happened to you/someone.
+**Intrigue** — show them a new perspective to think about that’s intriguing
+**Positive Future** — show the future benefits associated with the intrigue.
+**Solution** — bring clarity to how they can achieve a positive future with a solution
+
+```
+
+
+
+
+```
+
+
+### Observation (What’s something interesting you noticed?)
+
+```
+
+
+
+
+```
+
+### Contrarian (What’s a commonly held belief about this that’s wrong?)
+
+```
+
+
+
+
+```
+
+### Listicle (What are some tools/books/newsletters/Tweets about this?)
+
+```
+
+
+
+
+```
+
+### Analyze (Why did this happen?)
+
+```
+
+
+
+
+```
+
+### Past vs Present 
+
+```
+
+
+
+
+```
+
+
 
 ***Start writing!***
 # Step 9: Start Writing
