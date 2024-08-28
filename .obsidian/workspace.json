@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Path to Mastery- 3 Crucial Phases of Skill Development.md",
+                "file": "Content OS/Finished Content/The Path to Mastery- 3 Crucial Phases of Skill Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
+                "file": "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content OS/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
+                "file": "Utlities/Templates/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
+                "file": "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
+                "file": "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md"
+                "file": "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md"
               }
             }
           }
@@ -208,23 +208,23 @@
   },
   "active": "5e91ee2508a3aa39",
   "lastOpenFiles": [
-    "The Path to Mastery- 3 Crucial Phases of Skill Development.md",
+    "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Utlities/Templates/Hub Template.md",
-    "Content OS/Content Calendar.md",
-    "Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
     "Utlities/Templates/Templatized Content Template.md",
-    "Untitled 1.md",
-    "Content OS/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
-    "Content OS/Finished Templates/Newsletter/Newsletter Template.md",
-    "Content OS/Content Ideas.md",
+    "Content OS/Finished Content/The Path to Mastery- 3 Crucial Phases of Skill Development.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Content OS/Content Calendar.md",
+    "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+    "Utlities/Templates/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
+    "Utlities/Templates/Finished Templates/Newsletter/Newsletter Template.md",
+    "Content OS/Content Ideas.md",
     "Content Ideation/SLIs.md",
     "Content Ideation/Alert Types.md",
     "Content Ideation/SLO List.md",
     "Content Ideation/Instrumenting and Alerting for a New Service.md",
     "Content Ideation/Alerting.md",
     "Content Ideation/Developing an Error Budget SLO Alarm.md",
-    "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Untitled 2.md",
     "Content Ideation/Identify and Select SLOs.md",
     "Content Ideation/Identify the type of service.md",
@@ -242,7 +242,7 @@
     "97 Things Every SRE Should Know.pdf",
     "Setup To-Do.md",
     "Content OS/Finished Content",
-    "Content OS/Finished Templates/0. Template Vault",
-    "Content OS/Finished Templates/1. Template Content Emotions"
+    "Utlities/Templates/Finished Templates/0. Template Vault",
+    "Utlities/Templates/Finished Templates/1. Template Content Emotions"
   ]
 }
