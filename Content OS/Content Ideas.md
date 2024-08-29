@@ -31,7 +31,7 @@ AI Generated Ideas
 ## 1. Educational Series
 
 - SRE 101 - Understanding the Basics of Site Reliability Engineering
-- [[Demystifying SLIs, SLOs, and SLAs - A Comprehensive Guide]]
+- [[Demystifying SLIs, SLOs, and SLAs - A Beginners Guide]]
 - The Art of Monitoring and Observability in Modern Systems
 - Incident Management Best Practices for SREs
 - Capacity Planning - Ensuring Your Systems Can Handle Growth

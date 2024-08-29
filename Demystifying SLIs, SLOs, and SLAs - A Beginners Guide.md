@@ -1,6 +1,6 @@
  # The Content Operating System
 
-{{date}} - {{Time}}
+2024-08-29 - 16:44
 
 Select an idea from [[Content Ideas]]
 
@@ -8,9 +8,8 @@ Select an idea from [[Content Ideas]]
 
 
 > [!IDEA]
-> # {{Title}}
+> # Demystifying SLIs, SLOs, and SLAs - A Comprehensive Guide
 > 
-
 
 # Step 2: Research
 
@@ -25,7 +24,7 @@ Select an idea from [[Content Ideas]]
     - 
     - 
 - **Books:**
-    - 
+    - [[Site Reliability Engineering.pdf#page=62&selection=0,0,0,36|Site Reliability Engineering, page 62]]   
     - 
 - **Articles:**
     - 
@@ -35,7 +34,6 @@ Select an idea from [[Content Ideas]]
 # Step 3: Newsletter Template
 Template: [[Teach, Why, Fail, Solutions Newsletter Template]]
 1. Select Template - Choose a template from Typeshare or create your own.
-
 
 #### Newsletter
 Newsletter-{{Title}}

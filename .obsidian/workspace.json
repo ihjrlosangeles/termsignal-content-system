@@ -8,115 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0daf7b9434f379e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Essential SRE Metrics Every Team Should Track.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0126a8f422037a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content OS/Content Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7ab32f10b5b79939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Performance Indicators - Critical Metrics Every Service Should Track.md",
+                "file": "Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb2fc4c5aab1c1cf",
+            "id": "97dbad593ab59cc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proactive vs. Reactive Monitoring - Striking the Right Balance.md",
+                "file": "Utlities/Templates/Templatized Content Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "618dd6d8969319fb",
+            "id": "1541c1717c6fbe67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Critical Role of SLAs in Modern Service Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3facbcda2153116d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing Effective Postmortems - Templates and Tips.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7389b728631ff35a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creating Meaningful Dashboards - Data Visualization Best Practices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4249a7154d0c86aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Essential SRE Metrics Every Team Should Track.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9540cd837f494c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Top 10 Monitoring Tools for SREs in 2024.md",
+                "file": "Utlities/Templates/Hub Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 701.5
+    "width": 319.5
   },
   "right": {
     "id": "db50fe9b7e986033",
@@ -182,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Performance Indicators - Critical Metrics Every Service Should Track.md",
+                "file": "Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Performance Indicators - Critical Metrics Every Service Should Track.md",
+                "file": "Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Performance Indicators - Critical Metrics Every Service Should Track.md"
+                "file": "Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md"
               }
             }
           }
@@ -248,37 +175,37 @@
   },
   "active": "7ab32f10b5b79939",
   "lastOpenFiles": [
+    "Utlities/Templates/Templatized Content Template.md",
+    "Utlities/Templates/Hub Template.md",
+    "Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md",
+    "Chaos Engineering - Strengthening Systems Through Controlled Failure.md",
+    "Content OS/Finished Content/Hub Files/The Path to Mastery- 3 Crucial Phases of Skill Development.md",
+    "Content OS/Finished Content/Finished Newsletters/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+    "Content OS/To Templatize/Timeline-of-Day-Scenario.md",
+    "Content OS/Content Calendar.md",
+    "Content OS/Content Matrix.md",
     "Content OS/Content Ideas.md",
+    "Utlities/Templates/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
+    "Content Ideation/Books/Site Reliability Engineering.pdf",
+    "Utlities/Templates/Content Ideation Topic Template.md",
+    "Utlities/Templates/Finished Templates/1. Template Content Emotions/Entertain Me.md",
+    "Utlities/Templates/Finished Templates/1. Template Content Emotions/Empathize with Me.md",
+    "Utlities/Templates/Finished Templates/1. Template Content Emotions/Educate Me.md",
+    "Utlities/Templates/Finished Templates/1. Template Content Emotions/Challenge Me.md",
+    "Content Ideation/Diagrams/Vault_Structure.md",
+    "Content Ideation/Incident Management.md",
+    "Content Ideation/Observability.md",
+    "Content Ideation/Site Reliability Engineering.md",
+    "Content Ideation/Identify and Select SLOs.md",
+    "Setup To-Do.md",
+    "README.md",
+    "Logging Best Practices - Making Sense of System Data.md",
     "Key Performance Indicators - Critical Metrics Every Service Should Track.md",
     "Proactive vs. Reactive Monitoring - Striking the Right Balance.md",
-    "The Critical Role of SLAs in Modern Service Management.md",
-    "Writing Effective Postmortems - Templates and Tips.md",
-    "Creating Meaningful Dashboards - Data Visualization Best Practices.md",
-    "10 Essential SRE Metrics Every Team Should Track.md",
-    "Chaos Engineering Pioneers - The Story Behind Netflix's Simian Army.md",
-    "Top 10 Monitoring Tools for SREs in 2024.md",
-    "Creating a Runbook for Common System Issues.md",
-    "Building Your First SLO - A Step-by-Step Guide.md",
-    "Logging Best Practices - Making Sense of System Data.md",
-    "Root Cause Analysis - Techniques for Effective Problem Solving.md",
-    "Error Budgets Explained - Balancing Innovation and Reliability.md",
-    "The Art of Observation - Moving Beyond Basic Monitoring.md",
-    "Scaling Strategies - Identifying the Right Time to Expand Your Service.md",
-    "How to implement an Alarm Lifecycle Procedure.md",
-    "Monitoring 101 - Foundation Principles for Effective System Oversight.md",
-    "Extracting Actionable Insights from Incident Management Reports.md",
-    "Chaos Engineering - Strengthening Systems Through Controlled Failure.md",
-    "Demystifying SLIs, SLOs, and SLAs - A Comprehensive Guide.md",
-    "Utlities/Templates/Hub Template.md",
-    "Untitled.md",
-    "test.md",
-    "Utlities/Templates/Content Ideation Topic Template.md",
-    "Utlities/Templates/Templatized Content Template.md",
     "Content OS/Finished Content/Finished Newsletters",
     "Content OS/Finished Content/Hub Files",
     "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
     "Content Ideation/Books/SLO Adoption and Usage in Site Reliability Engineering.pdf",
-    "Content Ideation/Books/Site Reliability Engineering.pdf",
     "Content Ideation/Books/97 Things Every SRE Should Know.pdf",
     "Content Ideation/Books/Training Site Reliability Engineers.pdf",
     "Content Ideation/Books",
