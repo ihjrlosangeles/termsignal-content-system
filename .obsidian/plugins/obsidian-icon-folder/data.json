@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiShipWheel",
+      "⚙",
       "📰",
       "✅",
-      "📂",
-      "💡",
-      "📓"
+      "📂"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,6 +61,7 @@
   "Utlities/Templates/Finished Templates/Blog/Blog Templates.md": "🗞",
   "Utlities/Templates/Finished Templates/LinkedIn/LinkedIn Templates.md": "LiLinkedin",
   "Utlities/Templates/Finished Templates/TwitterX/TwitterX Templates.md": "LiTwitter",
-  "Content OS/Finished Content/The Path to Mastery- 3 Crucial Phases of Skill Development.md": "✅",
-  "Content OS/Finished Content/Finished Newsletters": "📰"
+  "Content OS/Finished Content/Finished Newsletters": "📰",
+  "Content OS/Finished Content/Hub Files": "LiShipWheel",
+  "Content OS/Finished Content/Hub Files/The Path to Mastery- 3 Crucial Phases of Skill Development.md": "✅"
 }

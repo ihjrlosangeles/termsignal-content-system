@@ -1,6 +1,4 @@
- # The Content Operating System
-
-{{date}} - {{Time}}
+# The Content Operating System
 
 Select an idea from [[Content Ideas]]
 
@@ -8,10 +6,11 @@ Select an idea from [[Content Ideas]]
 
 
 > [!IDEA]
-> {{Title}}
-> 
+> 10 Essential SRE Metrics Every Team Should Track
 
 
+
+# {{Title}}
 
 - [ ]  
 

@@ -8,47 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6cdad5c192376d0",
+            "id": "0daf7b9434f379e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
+                "file": "10 Essential SRE Metrics Every Team Should Track.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ac3b8e4a01f76255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content OS/Content Calendar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a85e088c0ff05be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utlities/Templates/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e3302db100799c2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -62,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4249a7154d0c86aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Essential SRE Metrics Every Team Should Track.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9540cd837f494c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Top 10 Monitoring Tools for SREs in 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
+                "file": "Content OS/Content Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md",
+                "file": "Content OS/Content Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utlities/Templates/Hub Template.md"
+                "file": "Content OS/Content Ideas.md"
               }
             }
           }
@@ -193,35 +186,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bdac4a4d18ab987c",
+  "active": "e0126a8f422037a7",
   "lastOpenFiles": [
-    "Content OS/Finished Content/Finished Newsletters",
-    "Content OS/Finished Content/Hub Files",
+    "10 Essential SRE Metrics Every Team Should Track.md",
+    "Chaos Engineering Pioneers - The Story Behind Netflix's Simian Army.md",
+    "Content OS/Content Ideas.md",
+    "Top 10 Monitoring Tools for SREs in 2024.md",
+    "Creating a Runbook for Common System Issues.md",
+    "Building Your First SLO - A Step-by-Step Guide.md",
+    "Logging Best Practices - Making Sense of System Data.md",
+    "Root Cause Analysis - Techniques for Effective Problem Solving.md",
+    "Error Budgets Explained - Balancing Innovation and Reliability.md",
+    "The Art of Observation - Moving Beyond Basic Monitoring.md",
+    "Scaling Strategies - Identifying the Right Time to Expand Your Service.md",
+    "How to implement an Alarm Lifecycle Procedure.md",
+    "Monitoring 101 - Foundation Principles for Effective System Oversight.md",
+    "Extracting Actionable Insights from Incident Management Reports.md",
+    "Chaos Engineering - Strengthening Systems Through Controlled Failure.md",
+    "Demystifying SLIs, SLOs, and SLAs - A Comprehensive Guide.md",
+    "Utlities/Templates/Hub Template.md",
+    "Untitled.md",
+    "test.md",
     "Utlities/Templates/Content Ideation Topic Template.md",
     "Utlities/Templates/Templatized Content Template.md",
-    "Utlities/Templates/Hub Template.md",
-    "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
-    "Content OS/Finished Content/The Path to Mastery- 3 Crucial Phases of Skill Development.md",
-    "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
-    "Content OS/To Templatize/Timeline-of-Day-Scenario.md",
-    "Content OS/Content Ideas.md",
-    "2024-08-28.md",
-    "Untitled.md",
     "Untitled 1.md",
-    "Content OS/Content Calendar.md",
-    "Utlities/Templates/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
-    "Utlities/Templates/Finished Templates/Newsletter/Newsletter Template.md",
-    "Content Ideation/SLIs.md",
-    "Content Ideation/Alert Types.md",
-    "Content Ideation/SLO List.md",
-    "Content Ideation/Instrumenting and Alerting for a New Service.md",
-    "Content Ideation/Alerting.md",
-    "Content Ideation/Developing an Error Budget SLO Alarm.md",
-    "Untitled 2.md",
-    "Content Ideation/Identify and Select SLOs.md",
-    "Content Ideation/Identify the type of service.md",
-    "Content Ideation/Monitoring.md",
-    "Alerting1.md",
+    "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
+    "Content OS/Finished Content/Finished Newsletters/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+    "Content OS/Finished Content/Hub Files/The Path to Mastery- 3 Crucial Phases of Skill Development.md",
+    "Content OS/Finished Content/Finished Newsletters",
+    "Content OS/Finished Content/Hub Files",
+    "Content OS/To Templatize/Timeline-of-Day-Scenario.md",
     "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
     "Content Ideation/Books/SLO Adoption and Usage in Site Reliability Engineering.pdf",
     "Content Ideation/Books/Site Reliability Engineering.pdf",
@@ -229,7 +223,6 @@
     "Content Ideation/Books/Training Site Reliability Engineers.pdf",
     "Content Ideation/Books",
     "97 Things Every SRE Should Know.pdf",
-    "Content OS/Finished Content",
-    "Utlities/Templates/Finished Templates/0. Template Vault"
+    "Content OS/Finished Content"
   ]
 }
