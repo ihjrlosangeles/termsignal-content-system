@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+                "file": "2024-08-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+                "file": "2024-08-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+                "file": "2024-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md"
+                "file": "2024-08-28.md"
               }
             }
           }
@@ -208,6 +208,8 @@
   },
   "active": "5e91ee2508a3aa39",
   "lastOpenFiles": [
+    "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
+    "2024-08-28.md",
     "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Utlities/Templates/Hub Template.md",
     "Utlities/Templates/Templatized Content Template.md",
@@ -215,7 +217,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "Content OS/Content Calendar.md",
-    "Content OS/Finished Content/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
     "Utlities/Templates/Finished Templates/0. Template Vault/Teach, Why, Fail, Solutions Newsletter Template.md",
     "Utlities/Templates/Finished Templates/Newsletter/Newsletter Template.md",
     "Content OS/Content Ideas.md",
@@ -240,7 +241,6 @@
     "Content Ideation/Books/Training Site Reliability Engineers.pdf",
     "Content Ideation/Books",
     "97 Things Every SRE Should Know.pdf",
-    "Setup To-Do.md",
     "Content OS/Finished Content",
     "Utlities/Templates/Finished Templates/0. Template Vault",
     "Utlities/Templates/Finished Templates/1. Template Content Emotions"
