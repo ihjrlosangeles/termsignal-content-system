@@ -32,6 +32,66 @@
             }
           },
           {
+            "id": "7ab32f10b5b79939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Performance Indicators - Critical Metrics Every Service Should Track.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb2fc4c5aab1c1cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proactive vs. Reactive Monitoring - Striking the Right Balance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "618dd6d8969319fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Critical Role of SLAs in Modern Service Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3facbcda2153116d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Effective Postmortems - Templates and Tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7389b728631ff35a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating Meaningful Dashboards - Data Visualization Best Practices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4249a7154d0c86aa",
             "type": "leaf",
             "state": {
@@ -56,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 701.5
   },
   "right": {
     "id": "db50fe9b7e986033",
@@ -122,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content OS/Content Ideas.md",
+                "file": "Key Performance Indicators - Critical Metrics Every Service Should Track.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content OS/Content Ideas.md",
+                "file": "Key Performance Indicators - Critical Metrics Every Service Should Track.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content OS/Content Ideas.md"
+                "file": "Key Performance Indicators - Critical Metrics Every Service Should Track.md"
               }
             }
           }
@@ -186,11 +246,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0126a8f422037a7",
+  "active": "7ab32f10b5b79939",
   "lastOpenFiles": [
+    "Content OS/Content Ideas.md",
+    "Key Performance Indicators - Critical Metrics Every Service Should Track.md",
+    "Proactive vs. Reactive Monitoring - Striking the Right Balance.md",
+    "The Critical Role of SLAs in Modern Service Management.md",
+    "Writing Effective Postmortems - Templates and Tips.md",
+    "Creating Meaningful Dashboards - Data Visualization Best Practices.md",
     "10 Essential SRE Metrics Every Team Should Track.md",
     "Chaos Engineering Pioneers - The Story Behind Netflix's Simian Army.md",
-    "Content OS/Content Ideas.md",
     "Top 10 Monitoring Tools for SREs in 2024.md",
     "Creating a Runbook for Common System Issues.md",
     "Building Your First SLO - A Step-by-Step Guide.md",
@@ -209,13 +274,8 @@
     "test.md",
     "Utlities/Templates/Content Ideation Topic Template.md",
     "Utlities/Templates/Templatized Content Template.md",
-    "Untitled 1.md",
-    "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
-    "Content OS/Finished Content/Finished Newsletters/Newsletter - The Path to Mastery - 3 Crucial Phases of Skill Development.md",
-    "Content OS/Finished Content/Hub Files/The Path to Mastery- 3 Crucial Phases of Skill Development.md",
     "Content OS/Finished Content/Finished Newsletters",
     "Content OS/Finished Content/Hub Files",
-    "Content OS/To Templatize/Timeline-of-Day-Scenario.md",
     "Content Ideation/Books/Building Secure and Reliable Systems.pdf",
     "Content Ideation/Books/SLO Adoption and Usage in Site Reliability Engineering.pdf",
     "Content Ideation/Books/Site Reliability Engineering.pdf",
