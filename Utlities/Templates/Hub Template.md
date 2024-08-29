@@ -4,7 +4,12 @@ Select an idea from [[Content Ideas]]
 
 # Step 1: Idea Capture
 
-#### **Idea:**
+
+> [!IDEA]
+> Top Free Monitoring Tools for SREs: Building a Cost-Effective Stack
+> 
+
+
 
 # {{Title}}
 
@@ -104,7 +109,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 **Positive Future** — show the future benefits associated with the intrigue.
 **Solution** — bring clarity to how they can achieve a positive future with a solution
 
-#### LinkedIn Post :LiLinkedin: 
+#### :LiLinkedin: LinkedIn Post 
 ```
 
 
@@ -112,7 +117,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ```
 
-#### Tweet Thread :LiTwitter:
+#### :LiTwitter: Tweet Thread 
 ```
 
 
@@ -122,7 +127,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ### Observation (What’s something interesting you noticed?)
 
-#### LinkedIn Post :LiLinkedin: 
+####  :LiLinkedin: LinkedIn Post 
 ```
 
 
@@ -130,7 +135,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ```
 
-#### Tweets  :LiTwitter:
+#### :LiTwitter: Tweets  
 ```
 
 
@@ -141,7 +146,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 
 ### Contrarian (What’s a commonly held belief about this that’s wrong?)
-#### LinkedIn Post :LiLinkedin: 
+#### :LiLinkedin: LinkedIn Post 
 ```
 
 
@@ -149,7 +154,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ```
 
-#### Tweets  :LiTwitter:
+#### :LiTwitter: Tweets  
 ```
 
 
@@ -160,7 +165,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ### Listicle (What are some tools/books/newsletters/Tweets about this?)
 
-#### LinkedIn Post :LiLinkedin: 
+#### :LiLinkedin: LinkedIn Post 
 
 ```
 
@@ -169,7 +174,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ```
 
-#### Tweet Thread  :LiTwitter:
+#### :LiTwitter: Tweet Thread  
 ```
 
 
@@ -180,7 +185,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 
 ### Analyze (Why did this happen?)
-#### LinkedIn Post :LiLinkedin: 
+#### :LiLinkedin: LinkedIn Post 
 ```
 
 
@@ -188,7 +193,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ```
 
-#### Tweet  :LiTwitter:
+#### :LiTwitter: Tweet  
 ```
 
 
@@ -200,7 +205,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ### Past vs Present 
 
-#### LinkedIn Post :LiLinkedin: 
+#### :LiLinkedin: LinkedIn Post 
 ```
 
 
@@ -208,7 +213,7 @@ TODO: You have 6 Spokes of content. Which are tweets and LI posts? Can we automa
 
 ```
 
-#### Tweet  :LiTwitter:
+#### :LiTwitter: Tweet  
 ```
 
 
