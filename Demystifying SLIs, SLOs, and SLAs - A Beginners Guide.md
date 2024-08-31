@@ -36,7 +36,7 @@ Template: [[Teach, Why, Fail, Solutions Newsletter Template]]
 1. Select Template - Choose a template from Typeshare or create your own.
 
 #### Newsletter
-Newsletter-{{Title}}
+[[Newsletter-Demystifying SLIs, SLOs, and SLAs - A Beginners Guide]]
 
 # Step 4: Editing
 
