@@ -41,6 +41,8 @@ author: Isidro Hernandez Jr
 ## Call to Action
 - Encourage the reader to take a specific action based on the content of the newsletter.
 ---
+Demystifying SLIs, SLOs, and SLAs - A Beginners Guide
+
 
 Most people do not understand SLIs, SLOs, and SLAs. Im going to teach you that today in simple terms so you can speak on the topic with confidence. 
 
@@ -91,3 +93,87 @@ To implement these you need a monitoring stack. By using dashboards, alerts, log
 
 Conclusion
 Now you can take this knowledge and implement SLX in your service. Do an audit and find gaps. When you are done you should have a significantly more reliable application. With the advancements in infrastructure today someone can pull the plug of the infrastructure you're application is hosted and your service will automatically recover without the user ever knowing. 
+
+---
+# Demystifying SLIs, SLOs, and SLAs: Your Guide to Service Reliability
+
+Are you ready to unlock the secrets of reliable, scalable applications? Join us as we dive into the world of Service Level Indicators (SLIs), Service Level Objectives (SLOs), and Service Level Agreements (SLAs) - the cornerstones of Site Reliability Engineering (SRE).
+
+## Why Should You Care?
+
+In today's digital landscape, reliability is king. Whether you're running a small startup or managing enterprise-level systems, understanding and implementing SLIs, SLOs, and SLAs can be the difference between thriving and merely surviving. These concepts are crucial for:
+
+- Ensuring optimal user experience
+- Effective capacity planning
+- Identifying critical performance indicators
+- Meeting business needs and customer expectations
+
+Let's break down these concepts and see how they can revolutionize your approach to service reliability.
+
+## Service Level Indicators (SLIs): The Metrics That Matter
+
+An SLI is a carefully chosen quantitative measure of your service's performance. Think of it as your service's vital signs, helping you gauge its health at any given moment.
+
+Common SLIs include:
+
+- **Request Latency**: How long does it take to respond to a user's request?
+- **Error Rate**: What percentage of requests result in errors?
+- **Throughput**: How many requests can your system handle per second?
+- **Availability**: What percentage of the time is your service operational?
+
+For example, if you're running an e-commerce platform, you might track the latency of your checkout process as a critical SLI. A slow checkout can directly impact user satisfaction and sales.
+
+## Service Level Objectives (SLOs): Setting the Bar
+
+An SLO is a target value or range for a specific SLI. It's your commitment to maintaining a certain level of service quality.
+
+Examples of SLOs include:
+
+- Availability: 99.9% of requests should be successful (non-5xx responses)
+- Latency: 95% of checkout processes should complete within 3 seconds
+- Error Rate: 4xx errors should be less than 1% of total requests
+- Throughput: The system should handle at least 100 transactions per second
+
+SLOs help you balance reliability with the pace of innovation. They provide clear targets for your engineering teams and set realistic expectations for your users.
+
+## Service Level Agreements (SLAs): The Promise to Your Users
+
+An SLA is a formal commitment to your users, often including consequences if you fail to meet the agreed-upon service levels. While SLOs are internal goals, SLAs are typically external contracts.
+
+Common components of SLAs include:
+
+1. **Uptime and Availability**: 
+   - Example: "We guarantee 99.99% uptime over any given month."
+   - This means your service can only be down for about 4.3 minutes per month!
+
+2. **Performance Metrics**: 
+   - Example: "99% of API requests will be processed within 200ms."
+   - This sets clear expectations for your service's responsiveness.
+
+Remember, your SLAs should be less stringent than your SLOs. This buffer allows you to address issues before they become SLA violations.
+
+## Implementing SLIs, SLOs, and SLAs: A Practical Approach
+
+To harness the power of these concepts, follow these steps:
+
+1. **Identify Your Critical SLIs**: What metrics truly matter to your users and business?
+
+2. **Set Realistic SLOs**: Balance user expectations with technical and business constraints.
+
+3. **Establish Clear SLAs**: Communicate your commitments to stakeholders and users.
+
+4. **Implement a Robust Monitoring Stack**: Use tools like Prometheus, Grafana, or cloud-native solutions to track your SLIs in real-time.
+
+5. **Create Informative Dashboards**: Visualize your SLIs and progress towards SLOs.
+
+6. **Set Up Alerting**: Proactively notify your team when SLOs are at risk of being breached.
+
+7. **Regular Review and Adjustment**: As your service evolves, so should your SLIs, SLOs, and SLAs.
+
+## Conclusion: Elevate Your Service Reliability
+
+By understanding and implementing SLIs, SLOs, and SLAs, you're not just improving your service's reliability - you're transforming how you approach system design, incident response, and user satisfaction.
+
+Remember, the journey to reliability is ongoing. Start small, measure consistently, and continuously improve. Your users will thank you, and you'll sleep better knowing your systems are robust and resilient.
+
+Ready to take the next step? Begin by identifying three key SLIs for your service and set corresponding SLOs. Your path to enhanced reliability starts now!
