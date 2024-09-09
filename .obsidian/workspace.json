@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
+                "file": "Newsletter-Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
+                "file": "Newsletter-Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
+                "file": "Newsletter-Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md"
+                "file": "Newsletter-Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   "active": "11a39525dba411b7",
   "lastOpenFiles": [
     "Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md",
+    "Content OS/Finished Content/Top Free Monitoring Tools for SREs Building a Cost-Effective Stack.md",
     "Newsletter-Demystifying SLIs, SLOs, and SLAs - A Beginners Guide.md",
     "Content Ideation/Books/Site Reliability Engineering.pdf",
     "Utlities/Templates/Templatized Content Template.md",
